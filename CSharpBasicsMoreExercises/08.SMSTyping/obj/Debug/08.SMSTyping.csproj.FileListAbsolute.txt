@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\06.TriplesLetters\bin\Debug\06.TriplesLetters.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\06.TriplesLetters\bin\Debug\06.TriplesLetters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\06.TriplesLetters\bin\Debug\06.TriplesLetters.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\06.TriplesLetters\obj\Debug\06.TriplesLetters.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\06.TriplesLetters\obj\Debug\06.TriplesLetters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\06.TriplesLetters\obj\Debug\06.TriplesLetters.pdb

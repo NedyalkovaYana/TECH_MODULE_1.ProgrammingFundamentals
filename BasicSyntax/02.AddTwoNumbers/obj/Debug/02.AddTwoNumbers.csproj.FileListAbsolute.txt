@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TechModuleTest1\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TechModuleTest1\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TechModuleTest1\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TechModuleTest1\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TechModuleTest1\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TechModuleTest1\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.pdb

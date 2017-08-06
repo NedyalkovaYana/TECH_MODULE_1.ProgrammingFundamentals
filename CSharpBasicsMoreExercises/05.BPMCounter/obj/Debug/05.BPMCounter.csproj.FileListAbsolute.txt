@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb

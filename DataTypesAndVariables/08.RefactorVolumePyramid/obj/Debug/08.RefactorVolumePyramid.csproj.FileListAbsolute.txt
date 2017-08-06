@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\08.RefactorVolumePyramid\bin\Debug\08.RefactorVolumePyramid.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\08.RefactorVolumePyramid\bin\Debug\08.RefactorVolumePyramid.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\08.RefactorVolumePyramid\bin\Debug\08.RefactorVolumePyramid.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\08.RefactorVolumePyramid\obj\Debug\08.RefactorVolumePyramid.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\08.RefactorVolumePyramid\obj\Debug\08.RefactorVolumePyramid.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\08.RefactorVolumePyramid\obj\Debug\08.RefactorVolumePyramid.pdb

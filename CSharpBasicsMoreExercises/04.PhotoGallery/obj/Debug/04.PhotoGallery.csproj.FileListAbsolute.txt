@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\04.PhotoGallery\bin\Debug\04.PhotoGallery.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\04.PhotoGallery\obj\Debug\04.PhotoGallery.pdb

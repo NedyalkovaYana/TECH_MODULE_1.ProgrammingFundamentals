@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\06.DNASequences\bin\Debug\06.DNASequences.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\CSharpBasicsMoreExercises\06.DNASequences\obj\Debug\06.DNASequences.pdb

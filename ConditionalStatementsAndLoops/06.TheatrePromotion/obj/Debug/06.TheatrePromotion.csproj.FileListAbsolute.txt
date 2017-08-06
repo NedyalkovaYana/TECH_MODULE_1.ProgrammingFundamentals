@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\06.TheatrePromotion\bin\Debug\06.TheatrePromotion.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\06.TheatrePromotion\bin\Debug\06.TheatrePromotion.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\06.TheatrePromotion\bin\Debug\06.TheatrePromotion.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\06.TheatrePromotion\obj\Debug\06.TheatrePromotion.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\06.TheatrePromotion\obj\Debug\06.TheatrePromotion.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\06.TheatrePromotion\obj\Debug\06.TheatrePromotion.pdb

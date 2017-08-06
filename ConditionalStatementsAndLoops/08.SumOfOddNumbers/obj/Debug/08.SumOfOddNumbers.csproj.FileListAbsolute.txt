@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\08.SumOfOddNumbers\bin\Debug\08.SumOfOddNumbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\08.SumOfOddNumbers\obj\Debug\08.SumOfOddNumbers.pdb

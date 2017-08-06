@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\03.ExactSumRealNumbers\bin\Debug\03.ExactSumRealNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\03.ExactSumRealNumbers\bin\Debug\03.ExactSumRealNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\03.ExactSumRealNumbers\bin\Debug\03.ExactSumRealNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\03.ExactSumRealNumbers\obj\Debug\03.ExactSumRealNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\03.ExactSumRealNumbers\obj\Debug\03.ExactSumRealNumbers.pdb

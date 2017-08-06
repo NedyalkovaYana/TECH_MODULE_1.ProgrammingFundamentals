@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\04.MonthPrinter\bin\Debug\04.MonthPrinter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\04.MonthPrinter\bin\Debug\04.MonthPrinter.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\04.MonthPrinter\obj\Debug\04.MonthPrinter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\04.MonthPrinter\obj\Debug\04.MonthPrinter.pdb

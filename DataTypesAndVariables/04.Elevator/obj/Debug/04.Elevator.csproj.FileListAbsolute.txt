@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\04.Elevator\bin\Debug\04.Elevator.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\04.Elevator\bin\Debug\04.Elevator.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\04.Elevator\bin\Debug\04.Elevator.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\04.Elevator\obj\Debug\04.Elevator.pdb

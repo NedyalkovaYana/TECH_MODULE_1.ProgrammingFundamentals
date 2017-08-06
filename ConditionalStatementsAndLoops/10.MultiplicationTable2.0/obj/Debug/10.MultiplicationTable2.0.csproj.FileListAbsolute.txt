@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\10.MultiplicationTable2.0\bin\Debug\10.MultiplicationTable2.0.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\10.MultiplicationTable2.0\bin\Debug\10.MultiplicationTable2.0.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\10.MultiplicationTable2.0\bin\Debug\10.MultiplicationTable2.0.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\10.MultiplicationTable2.0\obj\Debug\10.MultiplicationTable2.0.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\10.MultiplicationTable2.0\obj\Debug\10.MultiplicationTable2.0.pdb

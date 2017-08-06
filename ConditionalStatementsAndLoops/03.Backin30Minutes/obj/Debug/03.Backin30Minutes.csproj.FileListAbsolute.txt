@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\03.Backin30Minutes\bin\Debug\03.Backin30Minutes.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\03.Backin30Minutes\bin\Debug\03.Backin30Minutes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\03.Backin30Minutes\bin\Debug\03.Backin30Minutes.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\03.Backin30Minutes\obj\Debug\03.Backin30Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\03.Backin30Minutes\obj\Debug\03.Backin30Minutes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\TechModule\ConditionalStatementsAndLoops\03.Backin30Minutes\obj\Debug\03.Backin30Minutes.pdb

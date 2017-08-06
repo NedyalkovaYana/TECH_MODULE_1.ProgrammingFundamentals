@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariables\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb

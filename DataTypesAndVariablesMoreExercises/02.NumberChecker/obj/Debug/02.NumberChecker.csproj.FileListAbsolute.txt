@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\02.NumberChecker\bin\Debug\02.NumberChecker.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\02.NumberChecker\bin\Debug\02.NumberChecker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\02.NumberChecker\bin\Debug\02.NumberChecker.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\02.NumberChecker\obj\Debug\02.NumberChecker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\02.NumberChecker\obj\Debug\02.NumberChecker.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\09.MakeWord\bin\Debug\09.MakeWord.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\09.MakeWord\bin\Debug\09.MakeWord.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\09.MakeWord\bin\Debug\09.MakeWord.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\09.MakeWord\obj\Debug\09.MakeWord.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\09.MakeWord\obj\Debug\09.MakeWord.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\09.MakeWord\obj\Debug\09.MakeWord.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\13.DecryptingMessage\bin\Debug\13.DecryptingMessage.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\13.DecryptingMessage\bin\Debug\13.DecryptingMessage.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\13.DecryptingMessage\bin\Debug\13.DecryptingMessage.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\13.DecryptingMessage\obj\Debug\13.DecryptingMessage.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\13.DecryptingMessage\obj\Debug\13.DecryptingMessage.pdb

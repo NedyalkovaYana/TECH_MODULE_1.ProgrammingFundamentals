@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\10.SumOfChars\bin\Debug\10.SumOfChars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\10.SumOfChars\bin\Debug\10.SumOfChars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\10.SumOfChars\bin\Debug\10.SumOfChars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\10.SumOfChars\obj\Debug\10.SumOfChars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\10.SumOfChars\obj\Debug\10.SumOfChars.pdb

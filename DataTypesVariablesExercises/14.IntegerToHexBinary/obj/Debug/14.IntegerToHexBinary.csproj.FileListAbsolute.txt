@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\14.IntegerToHexBinary\bin\Debug\14.IntegerToHexBinary.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\14.IntegerToHexBinary\bin\Debug\14.IntegerToHexBinary.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\14.IntegerToHexBinary\bin\Debug\14.IntegerToHexBinary.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\14.IntegerToHexBinary\obj\Debug\14.IntegerToHexBinary.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\14.IntegerToHexBinary\obj\Debug\14.IntegerToHexBinary.pdb

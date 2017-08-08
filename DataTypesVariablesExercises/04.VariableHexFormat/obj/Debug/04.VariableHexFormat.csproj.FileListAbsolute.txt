@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\04.VariableHexFormat\bin\Debug\04.VariableHexFormat.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\04.VariableHexFormat\bin\Debug\04.VariableHexFormat.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\04.VariableHexFormat\bin\Debug\04.VariableHexFormat.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\04.VariableHexFormat\obj\Debug\04.VariableHexFormat.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\04.VariableHexFormat\obj\Debug\04.VariableHexFormat.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\04.VariableHexFormat\obj\Debug\04.VariableHexFormat.pdb

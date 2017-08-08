@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\15==14\bin\Debug\15==14.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\15==14\bin\Debug\15==14.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\15==14\bin\Debug\15==14.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\15==14\obj\Debug\15==14.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\15==14\obj\Debug\15==14.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\15==14\obj\Debug\15==14.pdb

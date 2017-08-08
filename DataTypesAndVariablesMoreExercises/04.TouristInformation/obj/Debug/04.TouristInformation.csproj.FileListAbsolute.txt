@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\04.TouristInformation\bin\Debug\04.TouristInformation.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\04.TouristInformation\bin\Debug\04.TouristInformation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\04.TouristInformation\bin\Debug\04.TouristInformation.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\04.TouristInformation\obj\Debug\04.TouristInformation.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\04.TouristInformation\obj\Debug\04.TouristInformation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\04.TouristInformation\obj\Debug\04.TouristInformation.pdb

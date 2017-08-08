@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\11.StringConcatenation\bin\Debug\11.StringConcatenation.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\11.StringConcatenation\obj\Debug\11.StringConcatenation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesAndVariablesMoreExercises\11.StringConcatenation\obj\Debug\11.StringConcatenation.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\02.PracticeFloatingPoints\bin\Debug\02.PracticeFloatingPoints.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\02.PracticeFloatingPoints\obj\Debug\02.PracticeFloatingPoints.pdb

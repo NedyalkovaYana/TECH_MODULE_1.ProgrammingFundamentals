@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.pdb

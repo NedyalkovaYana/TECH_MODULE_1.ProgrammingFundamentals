@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\09.ReversedChars\bin\Debug\09.ReversedChars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\09.ReversedChars\bin\Debug\09.ReversedChars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\09.ReversedChars\bin\Debug\09.ReversedChars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\09.ReversedChars\obj\Debug\09.ReversedChars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\09.ReversedChars\obj\Debug\09.ReversedChars.pdb

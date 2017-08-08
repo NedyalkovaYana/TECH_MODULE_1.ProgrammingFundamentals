@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.pdb

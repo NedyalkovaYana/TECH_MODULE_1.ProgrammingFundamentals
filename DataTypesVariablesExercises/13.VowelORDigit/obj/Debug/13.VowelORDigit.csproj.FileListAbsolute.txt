@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\13.VowelORDigit\bin\Debug\13.VowelORDigit.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\13.VowelORDigit\bin\Debug\13.VowelORDigit.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\13.VowelORDigit\bin\Debug\13.VowelORDigit.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\13.VowelORDigit\obj\Debug\13.VowelORDigit.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DataTypesVariablesExercises\13.VowelORDigit\obj\Debug\13.VowelORDigit.pdb

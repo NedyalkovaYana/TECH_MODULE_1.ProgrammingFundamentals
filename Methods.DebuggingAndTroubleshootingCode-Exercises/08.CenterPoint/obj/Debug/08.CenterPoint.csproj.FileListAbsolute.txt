@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\08.CenterPoint\bin\Debug\08.CenterPoint.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\08.CenterPoint\bin\Debug\08.CenterPoint.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\08.CenterPoint\bin\Debug\08.CenterPoint.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\08.CenterPoint\obj\Debug\08.CenterPoint.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\08.CenterPoint\obj\Debug\08.CenterPoint.pdb

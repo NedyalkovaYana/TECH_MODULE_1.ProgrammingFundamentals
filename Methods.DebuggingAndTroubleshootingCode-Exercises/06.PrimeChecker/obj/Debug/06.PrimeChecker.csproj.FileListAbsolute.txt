@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\06.PrimeChecker\bin\Debug\06.PrimeChecker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\06.PrimeChecker\bin\Debug\06.PrimeChecker.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\06.PrimeChecker\obj\Debug\06.PrimeChecker.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\06.PrimeChecker\obj\Debug\06.PrimeChecker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\06.PrimeChecker\obj\Debug\06.PrimeChecker.pdb

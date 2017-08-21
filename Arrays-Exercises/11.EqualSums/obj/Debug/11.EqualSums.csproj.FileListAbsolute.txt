@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Arrays-Exercises\11.EqualSums\bin\Debug\11.EqualSums.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Arrays-Exercises\11.EqualSums\bin\Debug\11.EqualSums.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Arrays-Exercises\11.EqualSums\bin\Debug\11.EqualSums.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Arrays-Exercises\11.EqualSums\obj\Debug\11.EqualSums.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Arrays-Exercises\11.EqualSums\obj\Debug\11.EqualSums.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Arrays-Exercises\11.EqualSums\obj\Debug\11.EqualSums.pdb

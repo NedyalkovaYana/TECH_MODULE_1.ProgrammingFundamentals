@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\05.CompareCharArrays\bin\Debug\05.CompareCharArrays.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\05.CompareCharArrays\bin\Debug\05.CompareCharArrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\05.CompareCharArrays\bin\Debug\05.CompareCharArrays.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\05.CompareCharArrays\obj\Debug\05.CompareCharArrays.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\05.CompareCharArrays\obj\Debug\05.CompareCharArrays.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\05.CompareCharArrays\obj\Debug\05.CompareCharArrays.pdb

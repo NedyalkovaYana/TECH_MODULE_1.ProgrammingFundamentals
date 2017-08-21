@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\04.Split ByWordCasing\bin\Debug\04.Split ByWordCasing.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\04.Split ByWordCasing\bin\Debug\04.Split ByWordCasing.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\04.Split ByWordCasing\bin\Debug\04.Split ByWordCasing.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\04.Split ByWordCasing\obj\Debug\04.Split ByWordCasing.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\04.Split ByWordCasing\obj\Debug\04.Split ByWordCasing.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\04.Split ByWordCasing\obj\Debug\04.Split ByWordCasing.pdb

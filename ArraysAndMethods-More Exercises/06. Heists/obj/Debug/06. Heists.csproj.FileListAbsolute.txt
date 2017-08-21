@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\06. Heists\bin\Debug\_06.Heists.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\06. Heists\bin\Debug\_06.Heists.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\06. Heists\bin\Debug\_06.Heists.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\06. Heists\obj\Debug\06. Heists.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\06. Heists\obj\Debug\_06.Heists.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\06. Heists\obj\Debug\_06.Heists.pdb

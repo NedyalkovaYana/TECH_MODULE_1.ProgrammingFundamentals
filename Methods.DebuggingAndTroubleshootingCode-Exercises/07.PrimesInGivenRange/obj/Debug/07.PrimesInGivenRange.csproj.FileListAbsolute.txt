@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\07.PrimesInGivenRange\bin\Debug\07.PrimesInGivenRange.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\07.PrimesInGivenRange\bin\Debug\07.PrimesInGivenRange.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\07.PrimesInGivenRange\bin\Debug\07.PrimesInGivenRange.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\07.PrimesInGivenRange\obj\Debug\07.PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\07.PrimesInGivenRange\obj\Debug\07.PrimesInGivenRange.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\07.PrimesInGivenRange\obj\Debug\07.PrimesInGivenRange.pdb

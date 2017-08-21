@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\testMasterNum\bin\Debug\testMasterNum.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\testMasterNum\bin\Debug\testMasterNum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\testMasterNum\bin\Debug\testMasterNum.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\testMasterNum\obj\Debug\testMasterNum.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\testMasterNum\obj\Debug\testMasterNum.pdb

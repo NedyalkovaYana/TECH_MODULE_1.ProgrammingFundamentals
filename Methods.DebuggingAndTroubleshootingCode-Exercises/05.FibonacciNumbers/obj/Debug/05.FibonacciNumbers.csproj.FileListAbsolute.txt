@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\05.FibonacciNumbers\bin\Debug\05.FibonacciNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\05.FibonacciNumbers\obj\Debug\05.FibonacciNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\10.PairsБyDifference\bin\Debug\10.PairsБyDifference.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\10.PairsБyDifference\bin\Debug\10.PairsБyDifference.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\10.PairsБyDifference\bin\Debug\10.PairsБyDifference.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\10.PairsБyDifference\obj\Debug\10.PairsБyDifference.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\10.PairsБyDifference\obj\Debug\10.PairsБyDifference.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Arrays-Exercises\10.PairsБyDifference\obj\Debug\10.PairsБyDifference.pdb

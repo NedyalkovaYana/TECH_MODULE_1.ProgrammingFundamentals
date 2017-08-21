@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\01.RemoveNegativesAndReverse\bin\Debug\01.RemoveNegativesAndReverse.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\01.RemoveNegativesAndReverse\obj\Debug\01.RemoveNegativesAndReverse.pdb

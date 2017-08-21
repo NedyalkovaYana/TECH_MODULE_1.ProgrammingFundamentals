@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\01.ArrayStatistics\bin\Debug\01.ArrayStatistics.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\01.ArrayStatistics\obj\Debug\01.ArrayStatistics.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\14. FactorialTrailingZeroes\bin\Debug\_14.FactorialTrailingZeroes.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\14. FactorialTrailingZeroes\bin\Debug\_14.FactorialTrailingZeroes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\14. FactorialTrailingZeroes\bin\Debug\_14.FactorialTrailingZeroes.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\14. FactorialTrailingZeroes\obj\Debug\_14.FactorialTrailingZeroes.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Methods.DebuggingAndTroubleshootingCode-Exercises\14. FactorialTrailingZeroes\obj\Debug\_14.FactorialTrailingZeroes.pdb

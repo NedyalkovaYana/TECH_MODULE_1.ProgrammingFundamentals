@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshootingCode\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshootingCode\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshootingCode\06.CalculateTriangleArea\bin\Debug\06.CalculateTriangleArea.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshootingCode\06.CalculateTriangleArea\obj\Debug\06.CalculateTriangleArea.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\MethodsDebuggingAndTroubleshootingCode\06.CalculateTriangleArea\obj\Debug\06.CalculateTriangleArea.pdb

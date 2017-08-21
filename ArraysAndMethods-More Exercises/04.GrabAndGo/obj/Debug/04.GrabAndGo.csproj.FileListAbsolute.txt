@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\04.GrabAndGo\bin\Debug\04.GrabAndGo.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\04.GrabAndGo\bin\Debug\04.GrabAndGo.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\04.GrabAndGo\bin\Debug\04.GrabAndGo.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\04.GrabAndGo\obj\Debug\04.GrabAndGo.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\04.GrabAndGo\obj\Debug\04.GrabAndGo.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ArraysAndMethods-More Exercises\04.GrabAndGo\obj\Debug\04.GrabAndGo.pdb

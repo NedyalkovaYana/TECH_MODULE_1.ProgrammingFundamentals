@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\07.CountNumbers\bin\Debug\07.CountNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\07.CountNumbers\bin\Debug\07.CountNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\07.CountNumbers\bin\Debug\07.CountNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\07.CountNumbers\obj\Debug\07.CountNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Lab\07.CountNumbers\obj\Debug\07.CountNumbers.pdb

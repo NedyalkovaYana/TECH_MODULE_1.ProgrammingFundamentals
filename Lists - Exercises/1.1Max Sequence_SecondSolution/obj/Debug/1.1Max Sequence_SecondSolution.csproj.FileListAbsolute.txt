@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\1.1Max Sequence_SecondSolution\bin\Debug\1.1Max Sequence_SecondSolution.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\1.1Max Sequence_SecondSolution\bin\Debug\1.1Max Sequence_SecondSolution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\1.1Max Sequence_SecondSolution\bin\Debug\1.1Max Sequence_SecondSolution.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\1.1Max Sequence_SecondSolution\obj\Debug\1.1Max Sequence_SecondSolution.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\1.1Max Sequence_SecondSolution\obj\Debug\1.1Max Sequence_SecondSolution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\1.1Max Sequence_SecondSolution\obj\Debug\1.1Max Sequence_SecondSolution.pdb

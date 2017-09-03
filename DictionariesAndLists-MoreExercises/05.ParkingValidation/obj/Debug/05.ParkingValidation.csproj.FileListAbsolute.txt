@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05.ParkingValidation\bin\Debug\05.ParkingValidation.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05.ParkingValidation\bin\Debug\05.ParkingValidation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05.ParkingValidation\bin\Debug\05.ParkingValidation.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05.ParkingValidation\obj\Debug\05.ParkingValidation.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05.ParkingValidation\obj\Debug\05.ParkingValidation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\05.ParkingValidation\obj\Debug\05.ParkingValidation.pdb

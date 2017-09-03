@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\02.OddOccurrences.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\02.OddOccurrences.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\02.OddOccurrences\bin\Debug\02.OddOccurrences.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\02.OddOccurrences.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\02.OddOccurrences\obj\Debug\02.OddOccurrences.pdb

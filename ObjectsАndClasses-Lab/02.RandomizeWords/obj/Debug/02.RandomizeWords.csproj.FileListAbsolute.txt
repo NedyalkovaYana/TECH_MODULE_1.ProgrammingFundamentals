@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\02.RandomizeWords\bin\Debug\02.RandomizeWords.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\02.RandomizeWords\bin\Debug\02.RandomizeWords.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\02.RandomizeWords\bin\Debug\02.RandomizeWords.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\02.RandomizeWords\obj\Debug\02.RandomizeWords.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\02.RandomizeWords\obj\Debug\02.RandomizeWords.pdb

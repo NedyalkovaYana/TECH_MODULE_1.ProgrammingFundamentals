@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\03.BigFactorial\bin\Debug\03.BigFactorial.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\03.BigFactorial\bin\Debug\03.BigFactorial.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\03.BigFactorial\bin\Debug\03.BigFactorial.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\03.BigFactorial\obj\Debug\03.BigFactorial.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\03.BigFactorial\obj\Debug\03.BigFactorial.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsАndClasses-Lab\03.BigFactorial\obj\Debug\03.BigFactorial.pdb

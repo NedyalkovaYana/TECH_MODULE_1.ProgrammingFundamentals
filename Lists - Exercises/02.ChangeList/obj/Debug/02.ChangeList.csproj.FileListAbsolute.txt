@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Exercises\02.ChangeList\bin\Debug\02.ChangeList.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Exercises\02.ChangeList\bin\Debug\02.ChangeList.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Exercises\02.ChangeList\bin\Debug\02.ChangeList.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Exercises\02.ChangeList\obj\Debug\02.ChangeList.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Exercises\02.ChangeList\obj\Debug\02.ChangeList.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Lists - Exercises\02.ChangeList\obj\Debug\02.ChangeList.pdb

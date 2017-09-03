@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\07.PopulationCounter\bin\Debug\07.PopulationCounter.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\07.PopulationCounter\bin\Debug\07.PopulationCounter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\07.PopulationCounter\bin\Debug\07.PopulationCounter.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\07.PopulationCounter\obj\Debug\07.PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\07.PopulationCounter\obj\Debug\07.PopulationCounter.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\07.PopulationCounter\obj\Debug\07.PopulationCounter.pdb

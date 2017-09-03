@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\03.AMinerTask\bin\Debug\03.AMinerTask.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\03.AMinerTask\obj\Debug\03.AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\03.AMinerTask\obj\Debug\03.AMinerTask.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\03.AMinerTask\obj\Debug\03.AMinerTask.pdb

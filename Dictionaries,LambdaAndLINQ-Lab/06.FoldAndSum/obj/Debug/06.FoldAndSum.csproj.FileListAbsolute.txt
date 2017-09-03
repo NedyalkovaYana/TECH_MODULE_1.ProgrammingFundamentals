@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\06.FoldAndSum\bin\Debug\06.FoldAndSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\06.FoldAndSum\bin\Debug\06.FoldAndSum.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\06.FoldAndSum\obj\Debug\06.FoldAndSum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Dictionaries,LambdaAndLINQ-Lab\06.FoldAndSum\obj\Debug\06.FoldAndSum.pdb

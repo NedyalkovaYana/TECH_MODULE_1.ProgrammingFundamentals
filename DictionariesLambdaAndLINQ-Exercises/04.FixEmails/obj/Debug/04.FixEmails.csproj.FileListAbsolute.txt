@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\04.FixEmails\bin\Debug\04.FixEmails.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\04.FixEmails\bin\Debug\04.FixEmails.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\04.FixEmails\bin\Debug\04.FixEmails.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\04.FixEmails\obj\Debug\04.FixEmails.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\04.FixEmails\obj\Debug\04.FixEmails.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\04.FixEmails\obj\Debug\04.FixEmails.pdb

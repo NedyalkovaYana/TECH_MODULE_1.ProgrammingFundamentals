@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\testProcessor\bin\Debug\testProcessor.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\testProcessor\bin\Debug\testProcessor.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\testProcessor\bin\Debug\testProcessor.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\testProcessor\obj\Debug\testProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\testProcessor\obj\Debug\testProcessor.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\testProcessor\obj\Debug\testProcessor.pdb

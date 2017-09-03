@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\08.LogsAggregator\bin\Debug\08.LogsAggregator.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\08.LogsAggregator\bin\Debug\08.LogsAggregator.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\08.LogsAggregator\bin\Debug\08.LogsAggregator.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\08.LogsAggregator\obj\Debug\08.LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\08.LogsAggregator\obj\Debug\08.LogsAggregator.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\08.LogsAggregator\obj\Debug\08.LogsAggregator.pdb

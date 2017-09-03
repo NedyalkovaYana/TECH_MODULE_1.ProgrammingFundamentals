@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\06.SumReversedNumbers\bin\Debug\06.SumReversedNumbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\06.SumReversedNumbers\obj\Debug\06.SumReversedNumbers.pdb

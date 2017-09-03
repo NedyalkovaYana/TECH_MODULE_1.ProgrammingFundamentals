@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\03.SearchForANumber\bin\Debug\03.SearchForANumber.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\03.SearchForANumber\bin\Debug\03.SearchForANumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\03.SearchForANumber\bin\Debug\03.SearchForANumber.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\03.SearchForANumber\obj\Debug\03.SearchForANumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Lists - Exercises\03.SearchForANumber\obj\Debug\03.SearchForANumber.pdb

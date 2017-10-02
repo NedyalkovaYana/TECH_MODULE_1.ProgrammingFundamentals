@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\MagicLetter\bin\Debug\MagicLetter.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\MagicLetter\bin\Debug\MagicLetter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\MagicLetter\bin\Debug\MagicLetter.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\MagicLetter\obj\Debug\MagicLetter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\MagicLetter\obj\Debug\MagicLetter.pdb

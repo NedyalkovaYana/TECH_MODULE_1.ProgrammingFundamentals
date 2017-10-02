@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\04.MorseCodeUpgraded\bin\Debug\04.MorseCodeUpgraded.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\04.MorseCodeUpgraded\bin\Debug\04.MorseCodeUpgraded.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\04.MorseCodeUpgraded\bin\Debug\04.MorseCodeUpgraded.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\04.MorseCodeUpgraded\obj\Debug\04.MorseCodeUpgraded.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\04.MorseCodeUpgraded\obj\Debug\04.MorseCodeUpgraded.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\04.MorseCodeUpgraded\obj\Debug\04.MorseCodeUpgraded.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\06.IntervalOfNumbers\bin\Debug\06.IntervalOfNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\06.IntervalOfNumbers\obj\Debug\06.IntervalOfNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\06.IntervalOfNumbers\obj\Debug\06.IntervalOfNumbers.pdb

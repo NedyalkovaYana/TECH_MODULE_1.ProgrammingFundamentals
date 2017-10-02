@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\03.CameraView\bin\Debug\03.CameraView.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\03.CameraView\bin\Debug\03.CameraView.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\03.CameraView\bin\Debug\03.CameraView.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\03.CameraView\obj\Debug\03.CameraView.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\03.CameraView\obj\Debug\03.CameraView.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\03.CameraView\obj\Debug\03.CameraView.pdb

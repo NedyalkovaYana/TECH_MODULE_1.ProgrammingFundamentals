@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\obj\Debug\03.TextFilter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\obj\Debug\03.TextFilter.pdb

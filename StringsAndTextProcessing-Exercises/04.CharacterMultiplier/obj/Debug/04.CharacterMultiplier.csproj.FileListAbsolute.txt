@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\04.CharacterMultiplier\bin\Debug\04.CharacterMultiplier.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\04.CharacterMultiplier\bin\Debug\04.CharacterMultiplier.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\04.CharacterMultiplier\bin\Debug\04.CharacterMultiplier.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\04.CharacterMultiplier\obj\Debug\04.CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\04.CharacterMultiplier\obj\Debug\04.CharacterMultiplier.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\04.CharacterMultiplier\obj\Debug\04.CharacterMultiplier.pdb

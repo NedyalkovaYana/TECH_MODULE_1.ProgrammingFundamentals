@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\06.EmailStatistics.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\06.EmailStatistics.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\06.EmailStatistics.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\06.EmailStatistics.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\06.EmailStatistics.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\06.EmailStatistics.pdb

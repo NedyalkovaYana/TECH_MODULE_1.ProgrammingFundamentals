@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\04.MergeFiles\bin\Debug\04.MergeFiles.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\04.MergeFiles\bin\Debug\04.MergeFiles.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\04.MergeFiles\bin\Debug\04.MergeFiles.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\04.MergeFiles\obj\Debug\04.MergeFiles.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\04.MergeFiles\obj\Debug\04.MergeFiles.pdb

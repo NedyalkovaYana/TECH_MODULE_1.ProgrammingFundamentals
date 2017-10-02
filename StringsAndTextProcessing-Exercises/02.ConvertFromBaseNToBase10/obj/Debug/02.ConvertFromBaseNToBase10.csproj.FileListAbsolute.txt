@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\02.ConvertFromBaseNToBase10\bin\Debug\02.ConvertFromBaseNToBase10.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\02.ConvertFromBaseNToBase10\bin\Debug\02.ConvertFromBaseNToBase10.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\02.ConvertFromBaseNToBase10\bin\Debug\02.ConvertFromBaseNToBase10.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\02.ConvertFromBaseNToBase10\obj\Debug\02.ConvertFromBaseNToBase10.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\02.ConvertFromBaseNToBase10\obj\Debug\02.ConvertFromBaseNToBase10.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\02.ConvertFromBaseNToBase10\obj\Debug\02.ConvertFromBaseNToBase10.pdb

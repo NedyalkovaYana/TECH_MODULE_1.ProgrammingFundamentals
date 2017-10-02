@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\08.Mines\bin\Debug\08.Mines.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\08.Mines\bin\Debug\08.Mines.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\08.Mines\bin\Debug\08.Mines.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\08.Mines\obj\Debug\08.Mines.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\08.Mines\obj\Debug\08.Mines.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\08.Mines\obj\Debug\08.Mines.pdb

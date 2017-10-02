@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\04.RoliTheCoder\bin\Debug\04.RoliTheCoder.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\04.RoliTheCoder\bin\Debug\04.RoliTheCoder.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\04.RoliTheCoder\bin\Debug\04.RoliTheCoder.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\04.RoliTheCoder\obj\Debug\04.RoliTheCoder.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\04.RoliTheCoder\obj\Debug\04.RoliTheCoder.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\04.RoliTheCoder\obj\Debug\04.RoliTheCoder.pdb

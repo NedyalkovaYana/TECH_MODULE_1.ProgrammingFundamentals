@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\07.MultiplyBigNumber\bin\Debug\07.MultiplyBigNumber.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\07.MultiplyBigNumber\bin\Debug\07.MultiplyBigNumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\07.MultiplyBigNumber\bin\Debug\07.MultiplyBigNumber.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\07.MultiplyBigNumber\obj\Debug\07.MultiplyBigNumber.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\07.MultiplyBigNumber\obj\Debug\07.MultiplyBigNumber.pdb

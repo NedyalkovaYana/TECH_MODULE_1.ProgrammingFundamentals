@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\03.CirclesIntersection\bin\Debug\03.CirclesIntersection.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\03.CirclesIntersection\bin\Debug\03.CirclesIntersection.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\03.CirclesIntersection\bin\Debug\03.CirclesIntersection.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\03.CirclesIntersection\obj\Debug\03.CirclesIntersection.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\03.CirclesIntersection\obj\Debug\03.CirclesIntersection.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\03.CirclesIntersection\obj\Debug\03.CirclesIntersection.pdb

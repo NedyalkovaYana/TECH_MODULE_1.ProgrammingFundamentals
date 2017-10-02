@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\03.RestaurantDiscount\bin\Debug\03.RestaurantDiscount.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\03.RestaurantDiscount\obj\Debug\03.RestaurantDiscount.pdb

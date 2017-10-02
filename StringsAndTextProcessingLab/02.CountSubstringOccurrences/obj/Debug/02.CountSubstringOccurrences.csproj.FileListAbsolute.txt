@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\02.CountSubstringOccurrences\bin\Debug\02.CountSubstringOccurrences.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\02.CountSubstringOccurrences\bin\Debug\02.CountSubstringOccurrences.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\02.CountSubstringOccurrences\bin\Debug\02.CountSubstringOccurrences.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\02.CountSubstringOccurrences\obj\Debug\02.CountSubstringOccurrences.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\02.CountSubstringOccurrences\obj\Debug\02.CountSubstringOccurrences.pdb

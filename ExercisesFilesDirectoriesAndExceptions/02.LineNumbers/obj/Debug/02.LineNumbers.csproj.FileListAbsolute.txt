@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

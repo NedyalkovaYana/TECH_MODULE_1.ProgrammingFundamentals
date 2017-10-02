@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\3.WordCount\bin\Debug\3.WordCount.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\3.WordCount\bin\Debug\3.WordCount.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\3.WordCount\bin\Debug\3.WordCount.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\3.WordCount\obj\Debug\3.WordCount.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\3.WordCount\obj\Debug\3.WordCount.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions\3.WordCount\obj\Debug\3.WordCount.pdb

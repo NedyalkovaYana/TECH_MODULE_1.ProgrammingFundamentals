@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\05.KeyReplacer\bin\Debug\05.KeyReplacer.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\05.KeyReplacer\bin\Debug\05.KeyReplacer.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\05.KeyReplacer\bin\Debug\05.KeyReplacer.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\05.KeyReplacer\obj\Debug\05.KeyReplacer.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\05.KeyReplacer\obj\Debug\05.KeyReplacer.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\05.KeyReplacer\obj\Debug\05.KeyReplacer.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions2\2.IndexOfLetters\bin\Debug\2.IndexOfLetters.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions2\2.IndexOfLetters\bin\Debug\2.IndexOfLetters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions2\2.IndexOfLetters\bin\Debug\2.IndexOfLetters.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions2\2.IndexOfLetters\obj\Debug\2.IndexOfLetters.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions2\2.IndexOfLetters\obj\Debug\2.IndexOfLetters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExercisesFilesDirectoriesAndExceptions2\2.IndexOfLetters\obj\Debug\2.IndexOfLetters.pdb

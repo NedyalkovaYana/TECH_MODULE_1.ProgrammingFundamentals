@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\04.PunctuationFinder\bin\Debug\04.PunctuationFinder.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\04.PunctuationFinder\bin\Debug\04.PunctuationFinder.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\04.PunctuationFinder\bin\Debug\04.PunctuationFinder.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\04.PunctuationFinder\obj\Debug\04.PunctuationFinder.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\04.PunctuationFinder\obj\Debug\04.PunctuationFinder.pdb

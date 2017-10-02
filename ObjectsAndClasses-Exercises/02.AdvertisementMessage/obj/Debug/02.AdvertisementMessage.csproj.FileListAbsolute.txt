@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\02.AdvertisementMessage\bin\Debug\02.AdvertisementMessage.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\02.AdvertisementMessage\obj\Debug\02.AdvertisementMessage.pdb

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

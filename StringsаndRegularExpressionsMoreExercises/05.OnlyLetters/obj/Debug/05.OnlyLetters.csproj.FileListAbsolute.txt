@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\05.OnlyLetters\bin\Debug\05.OnlyLetters.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\05.OnlyLetters\bin\Debug\05.OnlyLetters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\05.OnlyLetters\bin\Debug\05.OnlyLetters.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\05.OnlyLetters\obj\Debug\05.OnlyLetters.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\05.OnlyLetters\obj\Debug\05.OnlyLetters.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsаndRegularExpressionsMoreExercises\05.OnlyLetters\obj\Debug\05.OnlyLetters.pdb

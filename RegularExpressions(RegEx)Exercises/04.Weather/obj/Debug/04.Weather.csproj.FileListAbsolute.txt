@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\04.Weather\bin\Debug\04.Weather.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\04.Weather\bin\Debug\04.Weather.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\04.Weather\bin\Debug\04.Weather.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\04.Weather\obj\Debug\04.Weather.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\04.Weather\obj\Debug\04.Weather.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\04.Weather\obj\Debug\04.Weather.pdb

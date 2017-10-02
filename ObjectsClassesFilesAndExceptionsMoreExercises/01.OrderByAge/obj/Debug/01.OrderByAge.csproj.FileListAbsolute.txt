@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\01.OrderByAge\bin\Debug\01.OrderByAge.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\01.OrderByAge\bin\Debug\01.OrderByAge.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\01.OrderByAge\bin\Debug\01.OrderByAge.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\01.OrderByAge\obj\Debug\01.OrderByAge.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\01.OrderByAge\obj\Debug\01.OrderByAge.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\01.OrderByAge\obj\Debug\01.OrderByAge.pdb

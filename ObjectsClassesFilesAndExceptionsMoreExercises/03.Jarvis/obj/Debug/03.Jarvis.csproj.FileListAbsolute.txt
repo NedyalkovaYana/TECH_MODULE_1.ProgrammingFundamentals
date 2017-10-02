@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\03.Jarvis\bin\Debug\03.Jarvis.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\03.Jarvis\bin\Debug\03.Jarvis.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\03.Jarvis\bin\Debug\03.Jarvis.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\03.Jarvis\obj\Debug\03.Jarvis.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\03.Jarvis\obj\Debug\03.Jarvis.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\03.Jarvis\obj\Debug\03.Jarvis.pdb

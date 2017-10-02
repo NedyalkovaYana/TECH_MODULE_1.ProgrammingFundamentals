@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\06.ValidUsernames\bin\Debug\06.ValidUsernames.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\06.ValidUsernames\obj\Debug\06.ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\06.ValidUsernames\obj\Debug\06.ValidUsernames.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\06.ValidUsernames\obj\Debug\06.ValidUsernames.pdb

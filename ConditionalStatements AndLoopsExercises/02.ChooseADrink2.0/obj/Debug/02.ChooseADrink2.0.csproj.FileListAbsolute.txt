@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\02.ChooseADrink2.0\bin\Debug\02.ChooseADrink2.0.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\02.ChooseADrink2.0\bin\Debug\02.ChooseADrink2.0.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\02.ChooseADrink2.0\bin\Debug\02.ChooseADrink2.0.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\02.ChooseADrink2.0\obj\Debug\02.ChooseADrink2.0.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\02.ChooseADrink2.0\obj\Debug\02.ChooseADrink2.0.pdb

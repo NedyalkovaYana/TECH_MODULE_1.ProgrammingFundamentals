@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\06.SumBigNumbers\bin\Debug\06.SumBigNumbers.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\06.SumBigNumbers\obj\Debug\06.SumBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\06.SumBigNumbers\obj\Debug\06.SumBigNumbers.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\06.SumBigNumbers\obj\Debug\06.SumBigNumbers.pdb

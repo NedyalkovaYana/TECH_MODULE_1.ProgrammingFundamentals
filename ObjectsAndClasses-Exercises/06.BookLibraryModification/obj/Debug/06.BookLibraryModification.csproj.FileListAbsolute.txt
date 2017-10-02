@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\06.BookLibraryModification\bin\Debug\06.BookLibraryModification.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\06.BookLibraryModification\bin\Debug\06.BookLibraryModification.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\06.BookLibraryModification\bin\Debug\06.BookLibraryModification.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\06.BookLibraryModification\obj\Debug\06.BookLibraryModification.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\06.BookLibraryModification\obj\Debug\06.BookLibraryModification.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ObjectsAndClasses-Exercises\06.BookLibraryModification\obj\Debug\06.BookLibraryModification.pdb

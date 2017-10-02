@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.pdb

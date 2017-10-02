@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\05.WordInPlural\obj\Debug\05.WordInPlural.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\08.UseYourChainsBuddy\bin\Debug\08.UseYourChainsBuddy.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\08.UseYourChainsBuddy\bin\Debug\08.UseYourChainsBuddy.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\08.UseYourChainsBuddy\bin\Debug\08.UseYourChainsBuddy.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.csprojResolveAssemblyReference.cache

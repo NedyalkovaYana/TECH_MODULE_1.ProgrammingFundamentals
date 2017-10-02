@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\02.1VehicalCataloge\bin\Debug\02.1VehicalCataloge.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\02.1VehicalCataloge\bin\Debug\02.1VehicalCataloge.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\02.1VehicalCataloge\bin\Debug\02.1VehicalCataloge.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\02.1VehicalCataloge\obj\Debug\02.1VehicleCataloge.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\02.1VehicalCataloge\obj\Debug\02.1VehicalCataloge.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ObjectsClassesFilesAndExceptionsMoreExercises\02.1VehicalCataloge\obj\Debug\02.1VehicalCataloge.pdb

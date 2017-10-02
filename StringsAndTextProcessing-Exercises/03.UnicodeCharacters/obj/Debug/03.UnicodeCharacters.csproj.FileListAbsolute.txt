@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\03.UnicodeCharacters\bin\Debug\03.UnicodeCharacters.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\03.UnicodeCharacters\bin\Debug\03.UnicodeCharacters.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\03.UnicodeCharacters\bin\Debug\03.UnicodeCharacters.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\03.UnicodeCharacters\obj\Debug\03.UnicodeCharacters.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\StringsAndTextProcessing-Exercises\03.UnicodeCharacters\obj\Debug\03.UnicodeCharacters.pdb

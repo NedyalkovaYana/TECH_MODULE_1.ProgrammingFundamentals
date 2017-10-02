@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ConditionalStatements AndLoopsExercises\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.pdb

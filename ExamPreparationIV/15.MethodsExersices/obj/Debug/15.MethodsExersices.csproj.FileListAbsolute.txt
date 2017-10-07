@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIV\15.MethodsExersices\bin\Debug\15.MethodsExersices.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIV\15.MethodsExersices\bin\Debug\15.MethodsExersices.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIV\15.MethodsExersices\bin\Debug\15.MethodsExersices.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIV\15.MethodsExersices\obj\Debug\15.MethodsExersices.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIV\15.MethodsExersices\obj\Debug\15.MethodsExersices.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIV\15.MethodsExersices\obj\Debug\15.MethodsExersices.pdb

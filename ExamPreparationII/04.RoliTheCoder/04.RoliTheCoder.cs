@@ -11,8 +11,8 @@ namespace _04.RoliTheCoder
     {
         static void Main(string[] args)
         {
-            Dictionary<string, string> list = new Dictionary<string, string>();
-            List<string> participiant = new List<string>();
+           
+           Dictionary<int, string> 
 
             string input = Console.ReadLine();
 
@@ -45,6 +45,16 @@ namespace _04.RoliTheCoder
                        
                     }
                 }
+
+                string participiantPattern = @"(?<participiant>@\w+)";
+                MatchCollection participiantMatch = Regex.Matches(input, participiantPattern);
+
+                foreach (Match p in participiantMatch)
+                {
+                    string curentId = p.Groups["participiant"].Value;
+                   
+                }
+                //(?< id >\d){ 1}[\s+]#(?<evenNames>[A-Za-z\-\']+)((\s+)@(\w+))*
             }
         }
     }

@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.pdb

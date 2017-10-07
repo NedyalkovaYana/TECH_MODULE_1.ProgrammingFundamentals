@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\06. Square of Stars\bin\Debug\_06.Square_of_Stars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\06. Square of Stars\bin\Debug\_06.Square_of_Stars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\06. Square of Stars\bin\Debug\_06.Square_of_Stars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\06. Square of Stars\obj\Debug\_06.Square_of_Stars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\06. Square of Stars\obj\Debug\_06.Square_of_Stars.pdb

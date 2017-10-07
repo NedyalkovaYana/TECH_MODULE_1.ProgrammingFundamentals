@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\04. Triangle of 55 Stars\bin\Debug\_04.Triangle_of_55_Stars.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\04. Triangle of 55 Stars\obj\Debug\_04.Triangle_of_55_Stars.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\04. Triangle of 55 Stars\obj\Debug\_04.Triangle_of_55_Stars.pdb

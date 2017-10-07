@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 26 February 2017 Part I\02.HornetComm\bin\Debug\02.HornetComm.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 26 February 2017 Part I\02.HornetComm\bin\Debug\02.HornetComm.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 26 February 2017 Part I\02.HornetComm\bin\Debug\02.HornetComm.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 26 February 2017 Part I\02.HornetComm\obj\Debug\02.HornetComm.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 26 February 2017 Part I\02.HornetComm\obj\Debug\02.HornetComm.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 26 February 2017 Part I\02.HornetComm\obj\Debug\02.HornetComm.pdb

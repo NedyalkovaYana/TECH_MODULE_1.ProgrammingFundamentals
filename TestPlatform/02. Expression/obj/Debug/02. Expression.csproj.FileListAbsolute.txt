@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\02. Expression\bin\Debug\_02.Expression.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\02. Expression\bin\Debug\_02.Expression.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\02. Expression\bin\Debug\_02.Expression.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\02. Expression\obj\Debug\_02.Expression.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\TestPlatform\02. Expression\obj\Debug\_02.Expression.pdb

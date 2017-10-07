@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\test\bin\Debug\test.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\test\bin\Debug\test.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\test\bin\Debug\test.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\test\obj\Debug\test.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationII\test\obj\Debug\test.pdb

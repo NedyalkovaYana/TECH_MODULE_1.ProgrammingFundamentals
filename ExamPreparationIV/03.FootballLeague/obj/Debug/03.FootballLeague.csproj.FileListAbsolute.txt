@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\03.FootballLeague\bin\Debug\03.FootballLeague.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\03.FootballLeague\bin\Debug\03.FootballLeague.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\03.FootballLeague\bin\Debug\03.FootballLeague.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\03.FootballLeague\obj\Debug\03.FootballLeague.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\03.FootballLeague\obj\Debug\03.FootballLeague.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\03.FootballLeague\obj\Debug\03.FootballLeague.pdb

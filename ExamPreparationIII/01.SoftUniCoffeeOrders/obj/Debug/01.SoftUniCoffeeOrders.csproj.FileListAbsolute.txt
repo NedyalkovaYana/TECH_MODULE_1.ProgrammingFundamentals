@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIII\01.SoftUniCoffeeOrders\bin\Debug\01.SoftUniCoffeeOrders.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIII\01.SoftUniCoffeeOrders\bin\Debug\01.SoftUniCoffeeOrders.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIII\01.SoftUniCoffeeOrders\bin\Debug\01.SoftUniCoffeeOrders.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIII\01.SoftUniCoffeeOrders\obj\Debug\01.SoftUniCoffeeOrders.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIII\01.SoftUniCoffeeOrders\obj\Debug\01.SoftUniCoffeeOrders.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\ExamPreparationIII\01.SoftUniCoffeeOrders\obj\Debug\01.SoftUniCoffeeOrders.pdb

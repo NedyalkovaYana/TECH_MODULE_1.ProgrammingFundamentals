@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\3. LastKNumbersSumsSequence\bin\Debug\_3.LastKNumbersSumsSequence.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\3. LastKNumbersSumsSequence\bin\Debug\_3.LastKNumbersSumsSequence.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\3. LastKNumbersSumsSequence\bin\Debug\_3.LastKNumbersSumsSequence.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\3. LastKNumbersSumsSequence\obj\Debug\3. LastKNumbersSumsSequence.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\3. LastKNumbersSumsSequence\obj\Debug\_3.LastKNumbersSumsSequence.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\3. LastKNumbersSumsSequence\obj\Debug\_3.LastKNumbersSumsSequence.pdb

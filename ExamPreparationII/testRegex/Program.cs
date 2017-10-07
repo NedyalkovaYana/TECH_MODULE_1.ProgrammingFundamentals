@@ -26,14 +26,17 @@ namespace testRegex
                     {
                         continue;
                     }
-                    string idPattern = @"(?<id>[\d]){1}";
-                    MatchCollection idMatch = Regex.Matches(input, idPattern);
+                    string pattern1 = @"(?<id>\d){1}[\s+]#(?<evenNames>[A-Za-z\-\']+)([\s+](?<participiant>@\w+)+)+";
+                    MatchCollection matches = Regex.Matches(input, pattern1);
 
-                    foreach (Match id in idMatch)
-                    {
-                        string curentId = id.Groups["id"].Value;
-
-                    }
+                     foreach (Match item in matches)
+                     {
+                        var id = item.Groups["id"].Value;
+                        var evenNames = item.Groups["evenNames"].Value;
+                         var participiant = item.Groups["participiant"].Value;
+                         Console.WriteLine(id);
+                             
+                     }
                 }
             
         }

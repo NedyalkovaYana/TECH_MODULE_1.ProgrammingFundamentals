@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\testArray\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\02.ArrayManipulator\bin\Debug\02.ArrayManipulator.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\ExamPreparationIV\02.ArrayManipulator\obj\Debug\02.ArrayManipulator.pdb

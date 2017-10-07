@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe.config
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.pdb
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\02. Pokemon Don't Go\obj\Debug\02. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.pdb

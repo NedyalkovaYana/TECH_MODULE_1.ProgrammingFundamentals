@@ -11,83 +11,52 @@ namespace _03.NetherRealms
 {
     class NetherRealms
     {
+        class Demon
+        {
+            public string Name { get; set; }
+            public decimal Health { get; set; }
+            public decimal Damage { get; set; }
+
+            internal static Demon Parse(string demonStr)
+            {
+                var name = demonStr;
+                var damageRegex = new Regex(@"-?\d+(?:\.\d+)?");
+                var healthRegex = new Regex(@"[^\d\-*\/\.]");
+                var health = healthRegex
+                    .Matches(demonStr)
+                    .Cast<Match>()
+                    .Select(a =>(int)char.Parse(a.Value))
+                    .Sum();
+
+                var damage = damageRegex.Matches(demonStr)
+                    .Cast<Match>()
+                    .Select(a => decimal.Parse(a.Value))
+                    .Sum();
+
+                var multiplyCount = demonStr.Count(a => a == '*');
+                var divideCount = demonStr.Count(a => a == '/');              
+                damage *= (int)Math.Pow(2, multiplyCount);
+                damage /= (int)Math.Pow(2, divideCount);
+                
+                var demon = new Demon
+                {
+                    Name = name,
+                    Damage = damage,
+                    Health = health                    
+                };
+                return demon;
+            }
+        }
         static void Main(string[] args)
         {
-            string[] demons = Regex.Split(Console.ReadLine(), @"\s*, \s*").Select(a => a.Trim()).ToArray();
-            string addLetter = "";
- 
-            foreach (var demon in demons.OrderBy(a => a))
+            var demons = Console.ReadLine()
+                .Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(Demon.Parse).OrderBy(a => a.Name).ToArray();
+
+            foreach (var demon in demons)
             {
-                string pattern = @"(?<letters>[A-Za-z]*)(?<nums>[+-]?[0-9]*[.]?[0-9]*)";
-                
-                MatchCollection matches = Regex.Matches(demon, pattern);
-                double damage = 0;
-                addLetter = string.Empty;
-                foreach (Match match in matches)
-                {             
-                    var letter = match.Groups["letters"].Value;
-                    addLetter += letter;
-                    var numForDagem = match.Groups["nums"].Value;
-                   
-                    if (numForDagem == "")
-                    {
-                        continue;
-                    }
-                    damage += double.Parse(numForDagem, CultureInfo.InvariantCulture);
-                   
-                }
-                string pattern1 = @"(?<star>[*])";
-                MatchCollection matchee = Regex.Matches(demon, pattern1);
-                double countStar = 0;
-                foreach (Match match in matchee)
-                {
-                    countStar++;
-                    var star = match.Groups["star"].Value;
-                }
-                string pattern2 = @"(?<devide>[\/])";
-                MatchCollection matcch = Regex.Matches(demon, pattern2);
-                double countDevide = 0;
-                foreach (Match ma in matcch)
-                {
-                    countDevide++;
-                    var devide = ma.Groups["devide"].Value;
-                }
-
-                Console.Write($"{demon} - ");
-                GetDemonsHealth(addLetter);
-                GetDemonsDamage(damage, countStar, countDevide);
-                Console.WriteLine();
-
-            }        
-        }
-
-        private static void GetDemonsDamage(double damage, double countStar, double countDevide)
-        {
-            double totalDamage = 0.0;
-            totalDamage += damage;
-
-            for (int i = 0; i < countStar; i++)
-            {
-                totalDamage *= 2;
+                Console.WriteLine($"{demon.Name} - {demon.Health} health, {demon.Damage:f2} damage");
             }
-            for (int i = 0; i < countDevide; i++)
-            {
-                totalDamage /= 2;
-            }
-            Console.Write($" {totalDamage:f2} damage ");
-        }
-
-        static void GetDemonsHealth(string addLetter)
-        {
-            double health = 0.0;
-            foreach (char ch in addLetter)
-            {
-                health += (int)ch;
-            }
-            Console.Write($"{health} health,");
-
-            addLetter = string.Empty;
-            health = 0.0;
         }
     }  
 }

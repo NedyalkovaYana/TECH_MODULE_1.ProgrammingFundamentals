@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017 Part I\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017 Part I\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017 Part I\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017 Part I\04. Hornet Armada\obj\Debug\04. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017 Part I\04. Hornet Armada\obj\Debug\_04.Hornet_Armada.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam - 26 February 2017 Part I\04. Hornet Armada\obj\Debug\_04.Hornet_Armada.pdb

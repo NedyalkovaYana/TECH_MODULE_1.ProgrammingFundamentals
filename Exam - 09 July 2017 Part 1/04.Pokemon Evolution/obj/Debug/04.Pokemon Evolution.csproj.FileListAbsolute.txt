@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.exe.config
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\04.Pokemon Evolution\bin\Debug\04.Pokemon Evolution.pdb
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam - 09 July 2017 Part 1\04.Pokemon Evolution\obj\Debug\04.Pokemon Evolution.pdb

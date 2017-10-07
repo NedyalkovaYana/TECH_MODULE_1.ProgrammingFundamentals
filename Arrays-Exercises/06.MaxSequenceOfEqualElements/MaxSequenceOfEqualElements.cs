@@ -40,6 +40,7 @@ namespace _06.MaxSequenceOfEqualElements
 
                 Console.Write(arr[i] + " ");
             }
+            Console.WriteLine();
         }
     }
 }

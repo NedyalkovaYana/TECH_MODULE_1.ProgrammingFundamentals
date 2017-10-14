@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\DictionariesLambdaAndLINQ-Exercises\10. Сръбско Unleashed\obj\Debug\10. Сръбско Unleashed.csprojResolveAssemblyReference.cache

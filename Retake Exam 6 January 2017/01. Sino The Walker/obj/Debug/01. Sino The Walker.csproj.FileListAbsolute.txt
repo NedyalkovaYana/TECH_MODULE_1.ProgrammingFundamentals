@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam 6 January 2017\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam 6 January 2017\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam 6 January 2017\01. Sino The Walker\bin\Debug\_01.Sino_The_Walker.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam 6 January 2017\01. Sino The Walker\obj\Debug\01. Sino The Walker.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam 6 January 2017\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam 6 January 2017\01. Sino The Walker\obj\Debug\_01.Sino_The_Walker.pdb

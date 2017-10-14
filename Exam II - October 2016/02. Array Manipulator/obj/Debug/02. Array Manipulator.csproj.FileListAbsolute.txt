@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb

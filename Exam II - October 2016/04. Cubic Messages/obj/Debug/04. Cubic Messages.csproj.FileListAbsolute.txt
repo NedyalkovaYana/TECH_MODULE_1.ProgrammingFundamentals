@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe.config
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.pdb
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\04. Cubic Messages\obj\Debug\04. Cubic Messages.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Exam II - October 2016\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.pdb

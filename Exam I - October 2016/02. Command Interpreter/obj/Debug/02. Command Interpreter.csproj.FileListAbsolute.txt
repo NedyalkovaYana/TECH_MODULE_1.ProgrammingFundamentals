@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\02. Command Interpreter\bin\Debug\_02.Command_Interpreter.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\02. Command Interpreter\obj\Debug\02. Command Interpreter.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\02. Command Interpreter\obj\Debug\_02.Command_Interpreter.pdb

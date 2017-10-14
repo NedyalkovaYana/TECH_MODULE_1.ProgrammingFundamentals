@@ -1,0 +1,5 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - October 2016\Array Second Solution\bin\Debug\Array Second Solution.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - October 2016\Array Second Solution\bin\Debug\Array Second Solution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - October 2016\Array Second Solution\bin\Debug\Array Second Solution.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - October 2016\Array Second Solution\obj\Debug\Array Second Solution.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - October 2016\Array Second Solution\obj\Debug\Array Second Solution.pdb

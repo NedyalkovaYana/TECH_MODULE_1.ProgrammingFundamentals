@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\03. Rage Quit\bin\Debug\_03.Rage_Quit.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\03. Rage Quit\bin\Debug\_03.Rage_Quit.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\03. Rage Quit\obj\Debug\03. Rage Quit.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\03. Rage Quit\obj\Debug\_03.Rage_Quit.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - October 2016\03. Rage Quit\obj\Debug\_03.Rage_Quit.pdb

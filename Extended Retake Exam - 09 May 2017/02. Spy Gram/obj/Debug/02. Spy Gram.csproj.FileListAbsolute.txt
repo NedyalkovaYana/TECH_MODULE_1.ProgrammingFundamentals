@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\02. Spy Gram\bin\Debug\_02.Spy_Gram.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\02. Spy Gram\bin\Debug\_02.Spy_Gram.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\02. Spy Gram\bin\Debug\_02.Spy_Gram.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\02. Spy Gram.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\_02.Spy_Gram.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\02. Spy Gram\obj\Debug\_02.Spy_Gram.pdb

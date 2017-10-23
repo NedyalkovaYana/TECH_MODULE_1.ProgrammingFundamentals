@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\04. SoftUni Coffee Supplies\bin\Debug\_04.SoftUni_Coffee_Supplies.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\04. SoftUni Coffee Supplies\bin\Debug\_04.SoftUni_Coffee_Supplies.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\04. SoftUni Coffee Supplies\bin\Debug\_04.SoftUni_Coffee_Supplies.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\04. SoftUni Coffee Supplies\obj\Debug\04. SoftUni Coffee Supplies.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\04. SoftUni Coffee Supplies\obj\Debug\_04.SoftUni_Coffee_Supplies.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\04. SoftUni Coffee Supplies\obj\Debug\_04.SoftUni_Coffee_Supplies.pdb

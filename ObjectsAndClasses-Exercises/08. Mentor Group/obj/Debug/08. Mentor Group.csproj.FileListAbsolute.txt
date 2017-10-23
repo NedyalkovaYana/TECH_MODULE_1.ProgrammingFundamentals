@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\08. Mentor Group\obj\Debug\_08.Mentor_Group.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\08. Mentor Group\obj\Debug\_08.Mentor_Group.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\08. Mentor Group\obj\Debug\08. Mentor Group.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\StudentsGroupWithoutMethods\bin\Debug\StudentsGroupWithoutMethods.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\StudentsGroupWithoutMethods\bin\Debug\StudentsGroupWithoutMethods.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\StudentsGroupWithoutMethods\bin\Debug\StudentsGroupWithoutMethods.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\StudentsGroupWithoutMethods\obj\Debug\StudentsGroupWithoutMethods.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\StudentsGroupWithoutMethods\obj\Debug\StudentsGroupWithoutMethods.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\StudentsGroupWithoutMethods\obj\Debug\StudentsGroupWithoutMethods.pdb

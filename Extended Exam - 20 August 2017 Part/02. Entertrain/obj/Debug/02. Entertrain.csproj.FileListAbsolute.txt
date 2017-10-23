@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 20 August 2017 Part\02. Entertrain\bin\Debug\_02.Entertrain.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 20 August 2017 Part\02. Entertrain\bin\Debug\_02.Entertrain.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 20 August 2017 Part\02. Entertrain\bin\Debug\_02.Entertrain.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 20 August 2017 Part\02. Entertrain\obj\Debug\02. Entertrain.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 20 August 2017 Part\02. Entertrain\obj\Debug\_02.Entertrain.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 20 August 2017 Part\02. Entertrain\obj\Debug\_02.Entertrain.pdb

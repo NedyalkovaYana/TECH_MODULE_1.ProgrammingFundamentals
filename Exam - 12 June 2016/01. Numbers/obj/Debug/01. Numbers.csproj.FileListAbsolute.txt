@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\01. Numbers\bin\Debug\_01.Numbers.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\01. Numbers\bin\Debug\_01.Numbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\01. Numbers\bin\Debug\_01.Numbers.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\01. Numbers\obj\Debug\01. Numbers.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\01. Numbers\obj\Debug\_01.Numbers.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\01. Numbers\obj\Debug\_01.Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population with Dictionary\bin\Debug\_04.Population_with_Dictionary.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population with Dictionary\bin\Debug\_04.Population_with_Dictionary.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population with Dictionary\bin\Debug\_04.Population_with_Dictionary.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population with Dictionary\obj\Debug\04. Population with Dictionary.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population with Dictionary\obj\Debug\_04.Population_with_Dictionary.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population with Dictionary\obj\Debug\_04.Population_with_Dictionary.pdb

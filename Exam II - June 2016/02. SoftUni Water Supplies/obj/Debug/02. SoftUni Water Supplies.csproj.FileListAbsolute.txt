@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\02. SoftUni Water Supplies\bin\Debug\_02.SoftUni_Water_Supplies.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\02. SoftUni Water Supplies\bin\Debug\_02.SoftUni_Water_Supplies.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\02. SoftUni Water Supplies\bin\Debug\_02.SoftUni_Water_Supplies.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\02. SoftUni Water Supplies\obj\Debug\02. SoftUni Water Supplies.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\02. SoftUni Water Supplies\obj\Debug\_02.SoftUni_Water_Supplies.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Exam II - June 2016\02. SoftUni Water Supplies\obj\Debug\_02.SoftUni_Water_Supplies.pdb

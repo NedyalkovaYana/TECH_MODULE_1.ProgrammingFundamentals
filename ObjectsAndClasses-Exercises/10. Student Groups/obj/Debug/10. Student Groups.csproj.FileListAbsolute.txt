@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\10. Student Groups\bin\Debug\_10.Student_Groups.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\10. Student Groups\bin\Debug\_10.Student_Groups.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\10. Student Groups\bin\Debug\_10.Student_Groups.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\10. Student Groups\obj\Debug\10. Student Groups.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\10. Student Groups\obj\Debug\_10.Student_Groups.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\10. Student Groups\obj\Debug\_10.Student_Groups.pdb

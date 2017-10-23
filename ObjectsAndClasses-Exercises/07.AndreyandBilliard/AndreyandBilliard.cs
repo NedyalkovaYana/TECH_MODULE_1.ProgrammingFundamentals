@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,93 +10,91 @@ namespace _07.AndreyandBilliard
 {
     class AndreyandBilliard
     {
-        class Customer
+        public class Customer
         {
             public string Name { get; set; }
-            public Dictionary<string, int> ShoppingList { get; set; }
+            public Dictionary<string, int> ShopList  { get; set; }
             public decimal Bill { get; set; }
         }
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            Dictionary<string, decimal> products = new Dictionary<string, decimal>();
+            Dictionary<string, decimal> productsPriceList = new Dictionary<string, decimal>();
             List<Customer> customerList = new List<Customer>();
+
+            int n = int.Parse(Console.ReadLine());
+            decimal price = 0m;
 
             for (int i = 0; i < n; i++)
             {
-                var tokens = Console.ReadLine().Split('-').ToArray();
-                var item = tokens[0];
-                var price = decimal.Parse(tokens[1]);
+                string[] productsWithPrice = Console.ReadLine().Split('-').ToArray();
+                string product = productsWithPrice[0];
+                price = decimal.Parse(productsWithPrice[1]);
 
-                if (! products.ContainsKey(item))
+                if (!productsPriceList.ContainsKey(product))
                 {
-                    products.Add(item, price);
+                    productsPriceList[product] = price;
                 }
                 else
                 {
-                    products[item] = price;
+                    productsPriceList[product] = price;
                 }
             }
-            var orders = String.Empty;
+            
             while (true)
             {
-                orders = Console.ReadLine();
-                if (orders == "end of clients")
+                string clients = Console.ReadLine();
+                if (clients == "end of clients")
                 {
                     break;
                 }
-                var tokens = orders.Split('-', ',').ToArray();
+                string[] tokens = clients.Split(new char[] {'-', ','}, StringSplitOptions.RemoveEmptyEntries);
                 string name = tokens[0];
-                string order = tokens[1];
-                int orderQuantity = int.Parse(tokens[2]);
+                string wantedProduct = tokens[1];
+                int quantity = int.Parse(tokens[2]);
 
-                if (!products.ContainsKey(order))
+                if (!productsPriceList.ContainsKey(wantedProduct))
                 {
                     continue;
                 }
-                Customer customer = new Customer()
+
+                Customer customer = new Customer();
+                if (customerList.Any( a => a.Name == name))
                 {
-                    Name = name,
-                    ShoppingList = new Dictionary<string, int>
+                    customer = customerList.First(a => a.Name == name);
+                    if (!customer.ShopList.ContainsKey(wantedProduct))
                     {
-                        [order] = orderQuantity
-                    },
-                    Bill = orderQuantity * products[order]
-                };
-                if (!customerList.Exists(a => a.Name == customer.Name))
-                {
-                    customerList.Add(customer);
+                        customer.ShopList.Add(wantedProduct, 0);
+                    }
+                    customer.ShopList[wantedProduct] += quantity;
+                    customer.Bill += quantity * productsPriceList[wantedProduct];
                 }
                 else
                 {
-                    Customer existingCustomer =
-                        customerList.First(a => a.Name == name);
-                    if (!(existingCustomer.ShoppingList.ContainsKey(order)))
+                    customer.Name = name;
+                    customer.ShopList = new Dictionary<string, int>
                     {
-                        existingCustomer.ShoppingList.Add(order, orderQuantity);
-                        existingCustomer.Bill += customer.Bill;
-                    }
-                    else
-                    {
-                        existingCustomer.ShoppingList[order] += orderQuantity;
-                        existingCustomer.Bill = customer.Bill;
-                    }
-                }
+                        [wantedProduct] = quantity,
+                    };
+                    customer.Bill = quantity * productsPriceList[wantedProduct];
+                    customerList.Add(customer);
+                };
+
             }
-            decimal totalPrice = 0;
-            var orderedCustomerList = customerList.OrderBy(a => a.Name)
-                .ThenBy(a => a.Bill);
-            foreach (var customer in orderedCustomerList)
+            var orderedCustomerList = customerList.OrderBy(a => a.Name).ThenBy(a => a.Bill).ToList();
+            decimal totalBill = 0m;
+            foreach (var item in orderedCustomerList)
             {
-                Console.WriteLine(customer.Name);
-                foreach (KeyValuePair<string, int> item in customer.ShoppingList)
+                Console.WriteLine($"{item.Name}");
+
+                foreach (var products in item.ShopList)
                 {
-                    Console.WriteLine($"-- {item.Key} - {item.Value}");
+                    Console.WriteLine($"-- {products.Key} - {products.Value}");
                 }
-                Console.WriteLine($"Bill: {customer.Bill:f2}");
-                totalPrice += customer.Bill;
+
+                Console.WriteLine($"Bill: {item.Bill:f2}");
+                totalBill += item.Bill;
             }
-            Console.WriteLine($"Total bill: {customerList.Sum(a => a.Bill):f2}");
+            Console.WriteLine($"Total bill: {totalBill:f2}");
         }
        
     }

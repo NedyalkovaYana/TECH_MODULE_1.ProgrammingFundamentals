@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam - 11 September 2016\02. Trophon the Grumpy Cat\bin\Debug\_02.Trophon_the_Grumpy_Cat.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam - 11 September 2016\02. Trophon the Grumpy Cat\bin\Debug\_02.Trophon_the_Grumpy_Cat.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam - 11 September 2016\02. Trophon the Grumpy Cat\bin\Debug\_02.Trophon_the_Grumpy_Cat.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam - 11 September 2016\02. Trophon the Grumpy Cat\obj\Debug\02. Trophon the Grumpy Cat.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam - 11 September 2016\02. Trophon the Grumpy Cat\obj\Debug\_02.Trophon_the_Grumpy_Cat.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Retake Exam - 11 September 2016\02. Trophon the Grumpy Cat\obj\Debug\_02.Trophon_the_Grumpy_Cat.pdb

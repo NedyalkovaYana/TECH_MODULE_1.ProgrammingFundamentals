@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\02. Icarus\obj\Debug\02. Icarus.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\02. Icarus\bin\Debug\_02.Icarus.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\02. Icarus\bin\Debug\_02.Icarus.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\02. Icarus\bin\Debug\_02.Icarus.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\02. Icarus\obj\Debug\_02.Icarus.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\02. Icarus\obj\Debug\_02.Icarus.pdb

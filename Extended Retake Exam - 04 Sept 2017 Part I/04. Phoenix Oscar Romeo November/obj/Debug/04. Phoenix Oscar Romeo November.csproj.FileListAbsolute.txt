@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\04. Phoenix Oscar Romeo November\bin\Debug\_04.Phoenix_Oscar_Romeo_November.exe.config
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\04. Phoenix Oscar Romeo November\bin\Debug\_04.Phoenix_Oscar_Romeo_November.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\04. Phoenix Oscar Romeo November\bin\Debug\_04.Phoenix_Oscar_Romeo_November.pdb
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\04. Phoenix Oscar Romeo November\obj\Debug\04. Phoenix Oscar Romeo November.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\04. Phoenix Oscar Romeo November\obj\Debug\_04.Phoenix_Oscar_Romeo_November.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\04. Phoenix Oscar Romeo November\obj\Debug\_04.Phoenix_Oscar_Romeo_November.pdb

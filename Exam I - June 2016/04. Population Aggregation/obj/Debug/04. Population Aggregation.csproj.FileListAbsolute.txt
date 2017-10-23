@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population Aggregation\bin\Debug\_04.Population_Aggregation.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population Aggregation\bin\Debug\_04.Population_Aggregation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population Aggregation\bin\Debug\_04.Population_Aggregation.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population Aggregation\obj\Debug\04. Population Aggregation.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population Aggregation\obj\Debug\_04.Population_Aggregation.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam I - June 2016\04. Population Aggregation\obj\Debug\_04.Population_Aggregation.pdb

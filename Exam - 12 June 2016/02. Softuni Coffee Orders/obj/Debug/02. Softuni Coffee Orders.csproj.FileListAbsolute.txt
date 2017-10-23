@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\02. Softuni Coffee Orders\bin\Debug\_02.Softuni_Coffee_Orders.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\02. Softuni Coffee Orders\bin\Debug\_02.Softuni_Coffee_Orders.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\02. Softuni Coffee Orders\bin\Debug\_02.Softuni_Coffee_Orders.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\02. Softuni Coffee Orders\obj\Debug\_02.Softuni_Coffee_Orders.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam - 12 June 2016\02. Softuni Coffee Orders\obj\Debug\_02.Softuni_Coffee_Orders.pdb

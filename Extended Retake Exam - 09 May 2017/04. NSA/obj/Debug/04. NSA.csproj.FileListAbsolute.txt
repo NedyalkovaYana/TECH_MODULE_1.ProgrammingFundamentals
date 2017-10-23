@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\04. NSA\bin\Debug\_04.NSA.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\04. NSA\bin\Debug\_04.NSA.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\04. NSA\bin\Debug\_04.NSA.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\04. NSA.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\_04.NSA.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 09 May 2017\04. NSA\obj\Debug\_04.NSA.pdb

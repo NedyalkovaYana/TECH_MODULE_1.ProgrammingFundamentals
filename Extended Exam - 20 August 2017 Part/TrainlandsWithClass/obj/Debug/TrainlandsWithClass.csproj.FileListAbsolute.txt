@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 20 August 2017 Part\TrainlandsWithClass\bin\Debug\TrainlandsWithClass.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 20 August 2017 Part\TrainlandsWithClass\bin\Debug\TrainlandsWithClass.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 20 August 2017 Part\TrainlandsWithClass\bin\Debug\TrainlandsWithClass.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 20 August 2017 Part\TrainlandsWithClass\obj\Debug\TrainlandsWithClass.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 20 August 2017 Part\TrainlandsWithClass\obj\Debug\TrainlandsWithClass.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 20 August 2017 Part\TrainlandsWithClass\obj\Debug\TrainlandsWithClass.pdb

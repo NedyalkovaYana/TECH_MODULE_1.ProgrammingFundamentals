@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\01. Resurrection\bin\Debug\_01.Resurrection.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\01. Resurrection\bin\Debug\_01.Resurrection.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\01. Resurrection\bin\Debug\_01.Resurrection.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\01. Resurrection\obj\Debug\01. Resurrection.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\01. Resurrection\obj\Debug\_01.Resurrection.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Retake Exam - 04 Sept 2017 Part I\01. Resurrection\obj\Debug\_01.Resurrection.pdb

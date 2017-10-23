@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\TeamWorkProject with object\bin\Debug\TeamWorkProject with object.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\TeamWorkProject with object\bin\Debug\TeamWorkProject with object.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\TeamWorkProject with object\bin\Debug\TeamWorkProject with object.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\TeamWorkProject with object\obj\Debug\TeamWorkProject with object.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\TeamWorkProject with object\obj\Debug\TeamWorkProject with object.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\ObjectsAndClasses-Exercises\TeamWorkProject with object\obj\Debug\TeamWorkProject with object.csprojResolveAssemblyReference.cache

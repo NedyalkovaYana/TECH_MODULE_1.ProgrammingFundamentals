@@ -1,0 +1,5 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\bin\Debug\_02.SoftUni_Karaoke.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\02. SoftUni Karaoke\obj\Debug\_02.SoftUni_Karaoke.pdb

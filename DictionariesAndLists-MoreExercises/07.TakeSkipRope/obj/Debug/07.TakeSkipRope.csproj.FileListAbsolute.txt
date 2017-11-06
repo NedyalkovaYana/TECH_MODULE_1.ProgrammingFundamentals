@@ -1,1 +1,7 @@
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\07.TakeSkipRope\bin\Debug\07.TakeSkipRope.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\07.TakeSkipRope\bin\Debug\07.TakeSkipRope.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\07.TakeSkipRope\bin\Debug\07.TakeSkipRope.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\07.TakeSkipRope\obj\Debug\07.TakeSkipRope.pdb

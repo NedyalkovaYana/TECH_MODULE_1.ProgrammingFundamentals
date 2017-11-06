@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\08. Letters Change Numbers\bin\Debug\_08.Letters_Change_Numbers.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\08. Letters Change Numbers\obj\Debug\08. Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\08. Letters Change Numbers\obj\Debug\_08.Letters_Change_Numbers.pdb

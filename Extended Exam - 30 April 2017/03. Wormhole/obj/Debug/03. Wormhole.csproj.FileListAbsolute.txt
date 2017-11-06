@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\03. Wormhole\bin\Debug\_03.Wormhole.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\03. Wormhole\bin\Debug\_03.Wormhole.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\03. Wormhole\bin\Debug\_03.Wormhole.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\03. Wormhole\obj\Debug\03. Wormhole.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\03. Wormhole\obj\Debug\_03.Wormhole.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\03. Wormhole\obj\Debug\_03.Wormhole.pdb

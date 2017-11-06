@@ -3,3 +3,8 @@ c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextPro
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.pdb
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\obj\Debug\03.TextFilter.exe
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\StringsAndTextProcessingLab\03.TextFilter\obj\Debug\03.TextFilter.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\03.TextFilter\bin\Debug\03.TextFilter.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\03.TextFilter\obj\Debug\03.TextFilter.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\03.TextFilter\obj\Debug\03.TextFilter.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\03. Endurance Rally\obj\Debug\03. Endurance Rally.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.pdb

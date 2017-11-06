@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\09. Melrah Shake\obj\Debug\09. Melrah Shake.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessing-Exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.pdb

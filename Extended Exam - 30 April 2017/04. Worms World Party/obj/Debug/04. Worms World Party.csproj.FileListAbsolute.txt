@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\04. Worms World Party\bin\Debug\_04.Worms_World_Party.exe.config
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\04. Worms World Party\bin\Debug\_04.Worms_World_Party.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\04. Worms World Party\bin\Debug\_04.Worms_World_Party.pdb
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\04. Worms World Party\obj\Debug\04. Worms World Party.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\04. Worms World Party\obj\Debug\_04.Worms_World_Party.exe
+C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\Extended Exam - 30 April 2017\04. Worms World Party\obj\Debug\_04.Worms_World_Party.pdb

@@ -10,7 +10,7 @@ namespace _03.ImmuneSystem
     {
         static void Main(string[] args)
         {
-            List<string> viruses = new List<string>();         
+            List<string> viruses = new List<string>();
             int initialStrend = int.Parse(Console.ReadLine());
             int maxHealth = initialStrend;
             string viruse = Console.ReadLine();
@@ -51,7 +51,7 @@ namespace _03.ImmuneSystem
             {
                 totalStrend += viruse[i];
             }
-            return (int)(totalStrend/3.0);
+            return (int)(totalStrend / 3.0);
         }
         static string CalculateTime(int time)
         {

@@ -4,3 +4,9 @@ c:\users\yana nedyalkova\documents\visual studio 2017\Projects\RegularExpression
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\RegularExpressionsRegExLab\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\RegularExpressionsRegExLab\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\RegularExpressionsRegExLab\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

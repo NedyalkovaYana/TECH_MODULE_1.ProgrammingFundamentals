@@ -11,16 +11,17 @@ namespace _02.MatchPhoneNumber
     {
         static void Main(string[] args)
         {
-            string regex = @"\+\d{3}(\s|-)\d{1}(\1)\d{3}(\1)\d{4}";
-                           
-            string input = Console.ReadLine();
+            string regex = @"\+359([ -])2\1\d{3}\1\d{4}\b";
+            var input = Console.ReadLine();
 
             var match = Regex.Matches(input, regex);
 
-            var matchedPhoneNumbers = match.Cast<Match>().Select(a => a.Value.Trim()).ToArray();
+            var matchedPhones = match.Cast<Match>().Select(a => a.Value.Trim()).ToArray();
+            Console.WriteLine(string.Join(", ", matchedPhones));
 
-            Console.WriteLine(string.Join(", ", matchedPhoneNumbers));
-            
         }
     }
 }
+
+                           
+           

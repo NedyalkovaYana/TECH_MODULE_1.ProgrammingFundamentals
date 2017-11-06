@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\04. Match Dates\bin\Debug\_04.Match_Dates.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\04. Match Dates\bin\Debug\_04.Match_Dates.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\04. Match Dates\bin\Debug\_04.Match_Dates.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\04. Match Dates\obj\Debug\04. Match Dates.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\04. Match Dates\obj\Debug\_04.Match_Dates.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\04. Match Dates\obj\Debug\_04.Match_Dates.pdb

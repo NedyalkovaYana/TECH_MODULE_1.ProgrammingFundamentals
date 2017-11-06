@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Yana Nedyalkova\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

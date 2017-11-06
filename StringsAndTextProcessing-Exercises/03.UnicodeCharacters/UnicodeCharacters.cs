@@ -12,11 +12,12 @@ namespace _03.UnicodeCharacters
         {
             string input = Console.ReadLine();
 
-            var result = input.Select(t => string.Format("u{0:x4}", Convert.ToUInt16(t))).ToList();
+            var chars = input
+                .Select(c => (int) c)
+                .Select(c => $@"\u{c:x4}");
 
-
-            Console.Write("\\");
-            Console.WriteLine(string.Join("\\", result));
+            string rezult = string.Concat(chars);
+            Console.WriteLine(string.Join("\\", rezult));
         }
     }
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace _02.CountSubstringOccurrences
@@ -10,17 +11,12 @@ namespace _02.CountSubstringOccurrences
     {
         static void Main(string[] args)
         {
-            string text = Console.ReadLine();
-            string word = Console.ReadLine();        
-            int count = 0;
-            int index = text.IndexOf(word);
+            string text = Console.ReadLine().ToUpper();
+            string word = Console.ReadLine().ToUpper();
+            string pattern = $@"{word}";
 
-            while (index != -1)
-            {
-                count++;
-                index = text.IndexOf(word, index + 1);
-            }
-            Console.WriteLine(count);
+            int numberAppears = Regex.Matches(Regex.Escape(text), pattern).Count;
+            Console.WriteLine(numberAppears);
         }
     }
 }

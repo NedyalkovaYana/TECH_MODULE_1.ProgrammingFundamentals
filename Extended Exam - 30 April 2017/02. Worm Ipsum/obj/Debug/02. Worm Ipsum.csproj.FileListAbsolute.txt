@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 30 April 2017\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 30 April 2017\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 30 April 2017\02. Worm Ipsum\bin\Debug\_02.Worm_Ipsum.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\02. Worm Ipsum.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\_02.Worm_Ipsum.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Extended Exam - 30 April 2017\02. Worm Ipsum\obj\Debug\_02.Worm_Ipsum.pdb

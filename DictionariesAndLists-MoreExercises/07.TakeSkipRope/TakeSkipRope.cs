@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace _07.TakeSkipRope
@@ -29,7 +30,7 @@ namespace _07.TakeSkipRope
                 }
                 else
                 {
-                   skip.Add(digits[i]);
+                    skip.Add(digits[i]);
                 }
             }
             int totalSkip = 0;
@@ -40,7 +41,7 @@ namespace _07.TakeSkipRope
                 int skipCount = skip[i];
 
                 finalMessafe += new string(letters.Skip(totalSkip)
-                    .Take(takeCount).ToArray());                    
+                    .Take(takeCount).ToArray());
                 totalSkip += takeCount + skipCount;
             }
             Console.WriteLine(finalMessafe);

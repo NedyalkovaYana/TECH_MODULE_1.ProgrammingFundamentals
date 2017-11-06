@@ -4,3 +4,9 @@ c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLi
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02.OddFilter\obj\Debug\02.OddFilter.exe
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02.OddFilter\obj\Debug\02.OddFilter.pdb
 c:\users\yana nedyalkova\documents\visual studio 2017\Projects\DictionariesAndLists-MoreExercises\02.OddFilter\obj\Debug\02.OddFilter.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\02.OddFilter\bin\Debug\02.OddFilter.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\02.OddFilter\bin\Debug\02.OddFilter.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\02.OddFilter\bin\Debug\02.OddFilter.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\02.OddFilter\obj\Debug\02.OddFilter.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\02.OddFilter\obj\Debug\02.OddFilter.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\DictionariesAndLists-MoreExercises\02.OddFilter\obj\Debug\02.OddFilter.pdb

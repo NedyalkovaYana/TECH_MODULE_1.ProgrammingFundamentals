@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\04.Palindromes\bin\Debug\04.Palindromes.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\04.Palindromes\bin\Debug\04.Palindromes.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\04.Palindromes\bin\Debug\04.Palindromes.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\04.Palindromes\obj\Debug\04.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\04.Palindromes\obj\Debug\04.Palindromes.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\StringsAndTextProcessingLab\04.Palindromes\obj\Debug\04.Palindromes.pdb

@@ -4,3 +4,9 @@ C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpression
 C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\07.QueryMess\obj\Debug\07.QueryMess.csprojResolveAssemblyReference.cache
 C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\07.QueryMess\obj\Debug\07.QueryMess.exe
 C:\Users\Yana Nedyalkova\Documents\Visual Studio 2017\Projects\RegularExpressions(RegEx)Exercises\07.QueryMess\obj\Debug\07.QueryMess.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressions(RegEx)Exercises\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressions(RegEx)Exercises\07.QueryMess\bin\Debug\07.QueryMess.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressions(RegEx)Exercises\07.QueryMess\bin\Debug\07.QueryMess.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressions(RegEx)Exercises\07.QueryMess\obj\Debug\07.QueryMess.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressions(RegEx)Exercises\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressions(RegEx)Exercises\07.QueryMess\obj\Debug\07.QueryMess.pdb

@@ -1,0 +1,6 @@
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.pdb
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\04. Winning Ticket\obj\Debug\04. Winning Ticket.csprojResolveAssemblyReference.cache
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.exe
+c:\users\yana nedyalkova\documents\visual studio 2017\Projects\Exam Preparation I - Taking a Sample Exam\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.pdb

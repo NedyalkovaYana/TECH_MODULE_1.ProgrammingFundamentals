@@ -1,0 +1,6 @@
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\05. Match Numbers\obj\Debug\05. Match Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+C:\Users\Yana Nedyalkova\Desktop\Repo\RegularExpressionsRegExLab\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

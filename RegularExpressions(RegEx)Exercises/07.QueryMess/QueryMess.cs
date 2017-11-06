@@ -7,44 +7,55 @@ using System.Threading.Tasks;
 
 namespace _07.QueryMess
 {
-    class QueryMess   //ДА СИ ОПРАВЯ ПРИНТИРАНЕТО
+    class QueryMess  
     {
         static void Main(string[] args)
         {
-            Dictionary<string, List<string>> results = new Dictionary<string, List<string>>();
-            string text = Console.ReadLine();
+          
+                
+            // regex patterns
+            string pattern = @"([^&=?]*)=([^&=]*)";
+            string regex = @"((%20|\+)+)";
 
-            string pattern = @"(?<key>\w+)=(?<value>\w+)&*";
-            while (text != "END")
+            // input and matching
+            string inputLine;
+
+            while (!((inputLine = Console.ReadLine()) == "END"))
             {
-                var matches = Regex.Matches(text, pattern);
-  
-                foreach (Match match in matches)
-                {
-                    var key = match.Groups["key"].Value;
-                    var value = match.Groups["value"].Value;
+                Regex pairs = new Regex(pattern);
+                MatchCollection matches = pairs.Matches(inputLine);
 
-                    if (!results.ContainsKey(key))
+                // storing matching fields and values into a dictionary, per line of input
+                Dictionary<string, List<string>> results = new Dictionary<string, List<string>>();
+                for (int i = 0; i < matches.Count; i++)
+                {
+                    string field = matches[i].Groups[1].Value;
+                    field = Regex.Replace(field, regex, word => " ").Trim();
+
+                    string value = matches[i].Groups[2].Value;
+                    value = Regex.Replace(value, regex, word => " ").Trim();
+
+                    if (!results.ContainsKey(field))
                     {
                         List<string> values = new List<string>();
                         values.Add(value);
-                        results.Add(key, values);
+                        results.Add(field, values);
                     }
-                    else if (results.ContainsKey(key))
+                    else if (results.ContainsKey(field))
                     {
-                        results[key].Add(value);
+                        results[field].Add(value);
                     }
-                  
-                    //Console.Write($"{match.Groups["key"].Value}=[{match.Groups["value"].Value}]");
-                }            
-                text = Console.ReadLine();
+                }
+
+                // printing
+                foreach (var pair in results)
+                {
+                    Console.Write("{0}=[{1}]", pair.Key, string.Join(", ", pair.Value));
+                }
+                Console.WriteLine();
             }
-            foreach (var pair in results)
-            {
-                Console.Write("{0}=[{1}]", pair.Key, string.Join(", ", pair.Value));
-                
-            }
-            Console.WriteLine();
         }
     }
 }
+
+
